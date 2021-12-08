@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toy Story 1</title>
+    <link href="Img/Portada.jpg" rel="shortcut icon" type="image/c-icon"/>
+</head>
+<body>
+    <header>
+        <h1>TOY STORY 1</h1>
+    </header>
+    <nav>
+        <div id="header">
+            <ul class="nav">
+                <li><a href="#descripcion">Sinopsis</a></li>
+                <li><a href="#director">Director</a></li>
+                <li><a href="#personajes">Personajes</a></li>
+                    <ul>
+                        <li><a href="#Sheriff Woody">Sheriff Woody</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="#Buzz">Buzz Lightyear</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="#Potato">Mr. Potato</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="#Slinky">Slinky</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="#Rex">Rex</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="#Andy">Andy</a></li>
+                    </ul>
+                <li><a href="#plataformas">Plataformas</a></li>
+                <li><a href="#media">Media</a></li>
+                    <ul>
+                        <li><a href="#imagenes">Imágenes</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="#trailer">Tráiler</a></li>
+                    </ul>
+                <li><a href="#formulario">Formulario</a></li>
+            </ul>
+        </div>
+
+    </nav>
+    <nav>
+
+    </nav>
+    <section id="descripcion">
+        <fieldset>
+            <legend><b>Sinopsis</b></legend>
+        <p>Toy Story es una película de animación por ordenador dirigida por John Lasseter, estrenada en 1995 y producida por Pixar. Fue el primer largometraje de Pixar, además de la primera película animada completamente con efectos digitales en la historia del cine</p>
+        <img src="Img/ToyStory1.jpg" width="" height="200"/>
+        </fieldset>
+    </section>
+
+    <section id="director">
+        <fieldset>
+            <legend><b>Director</b></legend>
+        <p>John Alan Lasseter (Los Ángeles, California; 12 de enero de 1957) es un animador, director de cine y productor estadounidense. Es miembro fundador de los estudios Pixar, en donde supervisó todas las películas que produce este estudio de animación como productor ejecutivo.</p>
+        <img src="Img/Director.jpg" width="265" height=""/>
+        </fieldset>
+    </section>
+    <section id="personajes">
+        <fieldset>
+            <legend><b>Personajes</b></legend>
+        <ul id="Sheriff Woody">
+            <il><b>Sheriff Woody</b></il>
+            <il><br>Interpretado por Tom Hanks, Woody, un muñeco vaquero que es el juguete favorito de Andy, así como el protagonista de la película. En cuanto al doblaje en español, fue doblado por Óscar Barberán</br></il>
+        <img src="Img/Woody.jpg" width="275"/>    
+        </ul>
+
+        <ul id="Buzz">
+            <il><b>Buzz Lightyear</b></il>
+            <il><br>Interpretado por Tim Allen, es una figura de acción que emula a un astronauta que recorre el espacio exterior en búsqueda de aventuras. Es el nuevo juguete que recibe Andy, y al conocer a los demás juguetes empieza a adquirir popularidad. Esto le lleva a rivalizar con Woody.José</br></il>
+        <img src="Img/BuzzLightyear.jpg" width="276"/>
+        </ul>
+
+        <ul id="Potato">
+            <il><b>Mr. Potato</b></il>
+            <il><br>Interpretado por Don Rickles, es un diseño inspirado en Mr. Potato Head. Miguel Ángel Jenner hizo el doblaje en español<br></il>
+        <img src="Img/MrPotato.jpg" width="277"/>
+        </ul>
+
+        <ul id="Slinky">
+            <il><b>Slinky</b></il>
+            <il><br>Interpretado por Jim Varney, Slinky es un juguete que es medio perro y medio muelle. Slinky tiene cabeza, cuello y patas delanteras de perro y la unión a su otra parte es un muelle, es un perro salchicha simpático y sociable, no tiene apenas enemigos, El mejor amigo de Slinky es Woody.</br></il>
+        <img src="Img/Slinky.jpg" width="275"/>
+        </ul>
+        
+        <ul id="Rex">
+            <il><b>Rex</b></il>
+            <il><br>Interpretado por Wallace Shawn, Rex es un tiranosaurio de juguete, grande, verde y hecho de plástico sufre de ansiedad, un complejo de inferioridad y la preocupación de que no es lo suficientemente aterrador El peor temor de Rex, es que Andy lo reemplace por un tiranosaurio más aterrador.</br></il>
+        <img src="Img/Rex.jpg" width="275"/>
+        </ul>
+
+        <ul id="Andy">
+            <il><b>Andy</b></il>
+            <il><br>Interpretado por John Morris. Es el propietario de Woody, Buzz y los demás juguetes de su habitación. Doblado al español por Nacho Aldeguer.</br></il>
+        <img src="Img/Andy.jpg" width="277"/>
+        </ul>
+        </fieldset>
+    </section>
+
+    <section id="plataformas">
+        <fieldset>
+            <legend><b>Plataformas</b></legend>
+            <h1><b>Plataformas de Streaming</b></h1>
+                <table border="1">
+                    <tr>
+                        <td><b>Plataforma</b></td>
+                        <td><b>Costo</b></td>
+                    </tr>
+                    <tr>
+                        <td>Disney +</td>
+                        <td>Suscripción desde 8,99€/mes</td>
+                    </tr>
+                    <tr>
+                        <td>Amazon Prime Video</td>
+                        <td>Comprar por 2,99€</td>
+                    </tr>
+                    <tr>
+                        <td>Apple TV</td>
+                        <td>Comprar por 3,99€</td>
+                    </tr>
+                    <tr>
+                        <td>YouTube</td>
+                        <td>Alquilar/Comprar por 3,99€/13,99€</td>
+                    </tr>
+                </table>
+        </fieldset>
+    </section>
+    <section id="media">
+        <fieldset id="imagenes">
+            <legend><b>Imágenes</b></legend>
+                <img src="img/Juguetes.jpg" width="275"/>
+                <img src="img/Perro.jpg" width="278"/>
+                <img src="img/WoodyBuzz.jpg" width="414"/>
+                <p><img src="img/Cabezón.jpg" width="275"/>
+                <img src="img/Conos.jpg" width="320"/>
+                <img src="img/Flipando.jpg" width="313"/></p>
+        </fieldset>
+
+        <fieldset id="trailer">
+            <legend><b>Tráiler</b></legend>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/tN1A2mVnrOM" title="YouTube video player" 
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </fieldset>
+    </section>
+    <nav>
+
+    </nav>
+    <section id="formulario">
+        <fieldset>
+            <legend><b>Formulario</b></legend>
+            <form>
+                Nombre: <input type="text"/><br></br>
+                Apellidos: <input type="text"/><br></br>
+                Sexo:<br></br> 
+                <input type="checkbox" name="Hombre"/> Hombre
+                <input type="checkbox" name="Mujer"/> Mujer
+                <input type="checkbox" name="Otro"/> Otro <br></br>
+                Correo electrónico: <input type="email"/><br></br>
+                Opinión de la película: <textarea name="mensaje"></textarea><br></br>
+                Personaje favorito:<select>
+                    <option>Woody</option>
+                    <option>Buzz Lightyear</option>
+                    <option>Mr. Potato</option>
+                    <option>Slinky</option>
+                    <option>Rex</option>
+                    <option>Andy</option>
+                </select><br></br>
+                <input type="submit" value="Enviar"/>   
+            </form>
+        </fieldset>
+    </section>
+</body>
+</html>                                                                     
